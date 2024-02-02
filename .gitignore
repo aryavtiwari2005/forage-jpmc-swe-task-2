@@ -8,6 +8,7 @@
 /.venv/
 .gitignore
 /package-lock.json
+*.patch
 
 # testing
 /coverage
